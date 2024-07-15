@@ -65,7 +65,7 @@ Contains the implementations of the five machine learning classifiers applied to
 4. **Activate the virtual environment:**
    - On Windows:
      ```bash
-     venv\\Scripts\\activate
+     venv Scripts activate
      ```
    - On macOS/Linux:
      ```bash
@@ -77,7 +77,7 @@ Contains the implementations of the five machine learning classifiers applied to
    pip install -r requirements.txt
   ```
 
-### requirements.txt should include:
+## requirements.txt should include:
    ```numpy
    scikit-learn
    matplotlib
