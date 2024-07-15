@@ -48,50 +48,50 @@ Contains the implementations of the five machine learning classifiers applied to
 ## Setup Instructions
 
 1. **Clone the repository:**
-   \`\`\`bash
+   ```bash
    git clone <repo.git>
-   \`\`\`
+  ```
 
 2. **Navigate to the repository directory:**
-   \`\`\`bash
+   ```bash
    cd Multiple-Sclerosis-Conversion
-   \`\`\`
+   ```
 
 3. **Create a virtual environment:**
-   \`\`\`bash
+   ```bash
    python -m venv venv
-   \`\`\`
+   ```
 
 4. **Activate the virtual environment:**
    - On Windows:
-     \`\`\`bash
+     ```bash
      venv\\Scripts\\activate
-     \`\`\`
+     ```
    - On macOS/Linux:
-     \`\`\`bash
+     ```bash
      source venv/bin/activate
-     \`\`\`
+     ```
 
 5. **Install the necessary dependencies:**
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+  ```
 
 ### \`requirements.txt\` should include:
-   \`\`\`
+   ```
    numpy
    scikit-learn
    matplotlib
    pandas
    seaborn
    jupyter
-   \`\`\`
+   ```
 
 6. **Run the Jupyter Notebooks:**
    Open the desired Jupyter Notebook file using the command:
-   \`\`\`bash
+   ```bash
    jupyter notebook <notebook_filename>.ipynb
-   \`\`\`
+   ```
 
 7. **Explore and Analyze:**
    Follow the notebooks to reproduce the results of the study and perform your analyses.
