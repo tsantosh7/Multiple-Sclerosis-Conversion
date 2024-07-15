@@ -78,7 +78,7 @@ Contains the implementations of the five machine learning classifiers applied to
   ```
 
 ## requirements.txt should include:
-   ```bash
+   ```plaintext
    numpy
    scikit-learn
    matplotlib
