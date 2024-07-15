@@ -49,7 +49,7 @@ Contains the implementations of the five machine learning classifiers applied to
 
 1. **Clone the repository:**
    \`\`\`bash
-   git clone https://github.com/yourusername/Multiple-Sclerosis-Conversion.git
+   git clone <repo.git>
    \`\`\`
 
 2. **Navigate to the repository directory:**
@@ -102,7 +102,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to contribute to this project by opening issues or submitting pull requests. For any questions or support, please contact the repository owner.
+Feel free to contribute to this project by opening issues or submitting pull requests. For any questions or support, please contact the First author.
 
 ---
 
