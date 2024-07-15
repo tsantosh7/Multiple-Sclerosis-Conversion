@@ -77,9 +77,8 @@ Contains the implementations of the five machine learning classifiers applied to
    pip install -r requirements.txt
   ```
 
-### \`requirements.txt\` should include:
-   ```
-   numpy
+### `requirements.txt' should include:
+   ``` numpy
    scikit-learn
    matplotlib
    pandas
