@@ -1,3 +1,4 @@
+
 # Multiple-Sclerosis-Conversion
 
 This repository contains the code and data used for the study titled: **Predicting Multiple Sclerosis Conversion from Clinically Isolated Syndrome via the Application of Machine Learning to Clinical Data**.
@@ -31,26 +32,26 @@ A Jupyter Notebook file that contains the data demographics analysis.
 
 ### Lithuanian_code
 Contains the implementations of the five machine learning classifiers applied to the Lithuanian dataset:
-- \`Lithuanian_Decision Trees_Publication.ipynb\`
-- \`Lithuanian_Logistic Regression_Publication.ipynb\`
-- \`Lithuanian_Naive Bayes_Publication.ipynb\`
-- \`Lithuanian_Random Forests_Publication.ipynb\`
-- \`Lithuanian_SVM_Publication.ipynb\`
+- `Lithuanian_Decision Trees_Publication.ipynb`
+- `Lithuanian_Logistic Regression_Publication.ipynb`
+- `Lithuanian_Naive Bayes_Publication.ipynb`
+- `Lithuanian_Random Forests_Publication.ipynb`
+- `Lithuanian_SVM_Publication.ipynb`
 
 ### Mexican_code
 Contains the implementations of the five machine learning classifiers applied to the Mexican dataset:
-- \`Mexican_Decision Trees_Publication.ipynb\`
-- \`Mexican_Logistic Regression_Publication.ipynb\`
-- \`Mexican_Naive Bayes_Publication.ipynb\`
-- \`Mexican_Random Forests_Publication.ipynb\`
-- \`Mexican_SVM_Publication.ipynb\`
+- `Mexican_Decision Trees_Publication.ipynb`
+- `Mexican_Logistic Regression_Publication.ipynb`
+- `Mexican_Naive Bayes_Publication.ipynb`
+- `Mexican_Random Forests_Publication.ipynb`
+- `Mexican_SVM_Publication.ipynb`
 
 ## Setup Instructions
 
 1. **Clone the repository:**
    ```bash
    git clone <repo.git>
-  ```
+   ```
 
 2. **Navigate to the repository directory:**
    ```bash
@@ -65,7 +66,7 @@ Contains the implementations of the five machine learning classifiers applied to
 4. **Activate the virtual environment:**
    - On Windows:
      ```bash
-     venv Scripts activate
+     venv\Scripts\activate
      ```
    - On macOS/Linux:
      ```bash
@@ -75,17 +76,17 @@ Contains the implementations of the five machine learning classifiers applied to
 5. **Install the necessary dependencies:**
    ```bash
    pip install -r requirements.txt
-  ```
+   ```
 
 ## requirements.txt should include:
-   ```
-   numpy
-   scikit-learn
-   matplotlib
-   pandas
-   seaborn
-   jupyter
-   ```
+```
+numpy
+scikit-learn
+matplotlib
+pandas
+seaborn
+jupyter
+```
 
 6. **Run the Jupyter Notebooks:**
    Open the desired Jupyter Notebook file using the command:
@@ -105,7 +106,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to contribute to this project by opening issues or submitting pull requests. For any questions or support, please contact the First author.
 
 ---
-
-
-
-
